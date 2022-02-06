@@ -1,15 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "The Pel Code"
+date: 2022-02-06
+author: Celestia Harpster
+email: Celestia.harpster@colo.state.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Learning how to be a coder, here to get some knowledge. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  PelHarp # DO NOT include the @ character, or else the build will fail!
+tumblr_username: dumpthisthought
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: minima
+---
