@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "PelleHarp"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Time to start somwewhere
